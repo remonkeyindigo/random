@@ -1,0 +1,38 @@
+.qst1 {
+  color: white;
+  padding-left: 10%;
+}
+
+.container {
+  background-color: #3725a4;
+  border-radius: 5px;
+
+}
+
+.input1 {
+  border-radius: 3px;
+  border-color: blueviolet;
+
+}
+
+body {
+  background-color: #b3c9f4;
+}
+
+.button1 {
+  border-radius: 10px;
+  color: purple;
+  font-size: 90%;
+  background-color: powderblue;
+}
+
+.result1 {
+  background-color: purple;
+  color: white;
+  border-radius: 10px;
+  align-content: center;
+}
+
+.answer {
+  font-size: 100%;
+}
